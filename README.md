@@ -1,5 +1,7 @@
 # Monkey
 
+This module is way out of date and has been [superseded by testdata.patch](https://github.com/Jaymon/testdata#patch), I'd use that instead if you are looking for the functionality of this module, heck, I do.
+
 Easy Python monkey patching
 
 Monkey aims to make it easy to import patched modules for testing or whatnot, it's designed
